@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import "tailwindcss";
+
+html,
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-grad{
+    background: radial-gradient(circle at center, #2c3e50, #4ca1af 50%, #8e44ad 90%);
+}
+
+.nav-grad{
+    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+}
